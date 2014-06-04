@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-.
+# -*- coding: utf-8 -*-
 
 formatter = "%r %r %r %r"
 

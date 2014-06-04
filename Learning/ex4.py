@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-.
+# -*- coding: utf-8 -*-
 
 cats = 100
 space_in_a_car = 4.0

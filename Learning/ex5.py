@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-.
+# -*- coding: utf-8 -*-
 
 my_name = 'Hugh Smalley'
 my_age = 30 # not a lie

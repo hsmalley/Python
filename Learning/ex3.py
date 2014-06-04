@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-.
+# -*- coding: utf-8 -*-
 
 # Time to count some chickens!
 print "Hens", 25 + 30 / 6

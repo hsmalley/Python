@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-.
+# -*- coding: utf-8 -*-
 
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\non a line."
